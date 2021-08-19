@@ -17,7 +17,7 @@ Program keeps updating the following details at the bottom of the Frame:
 ### How to run the Project:
 
 - Clone the project.
-- Run the ``` TestBinaryTree.java ``` file under `` bstproject `` folder. 
+- Run the ``` TestBinaryTree.java ``` file under ``` bstproject ``` folder. 
 
 PFA a screenshot of the GUI:
 > Inserting a number that is already present in the tree.
