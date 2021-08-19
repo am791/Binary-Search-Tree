@@ -24,5 +24,5 @@ PFA a screenshot of the GUI:
 
 ```
 Clone the project.
-RUn the TestBinaryTree.java file under bstproject folder. 
+Run the TestBinaryTree.java file under bstproject folder. 
 ```
