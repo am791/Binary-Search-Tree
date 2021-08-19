@@ -14,15 +14,12 @@ Program keeps updating the following details at the bottom of the Frame:
 - Height of the tree
 - Number of vertices 
 
+### How to run the Project:
+
+- Clone the project.
+- Run the ``` TestBinaryTree.java ``` file under `` bstproject `` folder. 
 
 PFA a screenshot of the GUI:
 > Inserting a number that is already present in the tree.
 
 ![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap2.PNG)
-
-### How to run the Project:
-
-```
-Clone the project.
-Run the TestBinaryTree.java file under bstproject folder. 
-```
