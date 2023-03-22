@@ -20,6 +20,11 @@ Program keeps updating the following details at the bottom of the Frame:
 - Run the ``` TestBinaryTree.java ``` file under ``` bstproject ``` folder. 
 
 PFA a screenshot of the GUI:
-> Inserting a number that is already present in the tree.
+> Inserting a number that is already present in the tree and other operations:
 
 ![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap2.PNG)
+![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap1.PNG)
+![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap3.PNG)
+![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap4.PNG)
+![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap5.PNG)
+![Tree GUI](https://github.com/am791/Binary-Search-Tree/blob/master/Screenshots/snap6.PNG)
