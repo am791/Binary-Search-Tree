@@ -15,4 +15,4 @@ COPY . .
 RUN javac bstproject/*.java
 
 # Command to run the application
-CMD ["java", "bstproject.TestBinaryTree"]
+CMD ["xvfb-run", "java", "-cp", ".:bin", "bstproject.TestBinaryTree"]
