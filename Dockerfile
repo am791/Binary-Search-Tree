@@ -5,10 +5,10 @@ FROM openjdk:11-jdk-slim
 WORKDIR /app
 
 # Copy the current directory contents into the container at /app
-COPY ./bstproject /app
+COPY . .
 
 # Compile the Java source file
-RUN javac *.java
+RUN javac bstproject/*.java
 
 # Command to run the application
-CMD ["java", "TestBinaryTree"]
+CMD ["java", "bstproject.TestBinaryTree"]
