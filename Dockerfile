@@ -8,7 +8,7 @@ WORKDIR /app
 COPY ./bstproject .
 
 # Compile the Java source file
-RUN javac TestBinaryTree.java
+RUN javac *.java
 
 # Command to run the application
 CMD ["java", "TestBinaryTree"]
