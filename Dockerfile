@@ -1,6 +1,10 @@
 # Use an official OpenJDK runtime as a parent image
 FROM openjdk:11-jdk-slim
 
+RUN apt-get update && apt-get install -y \
+    xvfb \
+    && rm -rf /var/lib/apt/lists/*
+
 # Set the working directory in the container
 WORKDIR /app
 
