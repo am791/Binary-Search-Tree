@@ -5,7 +5,7 @@ FROM openjdk:11-jdk-slim
 WORKDIR /app
 
 # Copy the current directory contents into the container at /app
-COPY ./bstproject .
+COPY ./bstproject /app
 
 # Compile the Java source file
 RUN javac *.java
